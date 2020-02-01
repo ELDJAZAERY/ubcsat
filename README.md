@@ -1,2 +1,1 @@
-# solveur-sat-per-absurd
-solveur sat per absurd
+# use ubcsat to resolve sat-max
